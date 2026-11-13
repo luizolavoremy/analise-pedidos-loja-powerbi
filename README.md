@@ -4,7 +4,7 @@ Dashboard em Power BI sobre os pedidos de uma loja online (jan/2023 a dez/2024).
 
 > **Sobre este projeto:** é um projeto de estudo, feito com apoio de IA (Claude) como ferramenta de aprendizado. A base é **sintética**, gerada para estudo (detalhes no projeto 1), e os números não representam nenhuma empresa real.
 
-![Dashboard de pedidos](imagens/dashboard.png)
+![Dashboard de pedidos](Imagens/dashboard.png)
 
 **Base:** `pedidos_limpos.csv` com 4.871 pedidos e 14 colunas, já limpa no projeto 1.
 
@@ -74,7 +74,7 @@ Power BI Desktop · DAX · Git/GitHub
 analise-pedidos-loja-powerbi/
 ├── dashboard_pedidos.pbix   # dashboard
 ├── pedidos_limpos.csv       # base já limpa no projeto 1
-├── imagens/
+├── Imagens/
 │   └── dashboard.png        # print usado neste README
 └── README.md
 ```
