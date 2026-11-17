@@ -58,6 +58,7 @@ Como calcular a taxa de cancelamento:
 - Os cartões e gráficos mostram valores abreviados (Mil, Mi). O valor exato aparece ao passar o mouse ou em *Mostrar como uma tabela*.
 - O dashboard cobre as perguntas principais. Os cruzamentos (produto por estado, por canal e por mês) ficaram nos projetos 1 e 2.
 - A base é sintética.
+- A base limpa ainda tem **20 pedidos com preço unitário negativo**, que a limpeza do projeto 1 não tratou. O problema foi percebido depois, ao montar o diagnóstico do projeto 4. O cartão de receita total e os gráficos de receita incluem esses pedidos, que somam −R$ 6.329,96 (cerca de 0,3%): sem eles, a receita total seria R$ 2.087.662,33, e não R$ 2.081.332,37. Os rankings de receita por categoria e por estado não mudam. Os números foram mantidos como estão para ficarem iguais nos quatro projetos da série.
 
 ## Tecnologias
 
