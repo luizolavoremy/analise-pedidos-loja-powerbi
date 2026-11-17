@@ -83,6 +83,12 @@ analise-pedidos-loja-powerbi/
 
 - Uma página extra com a taxa de cancelamento por categoria e os cruzamentos de produto.
 
+## Projetos relacionados
+
+- Análise e limpeza com pandas: [analise-pedidos-loja](https://github.com/luizolavoremy/analise-pedidos-loja)
+- Mesmas perguntas em SQL: [analise-pedidos-loja-sql](https://github.com/luizolavoremy/analise-pedidos-loja-sql)
+- Agentes de IA que geram um relatório sobre os mesmos dados: [ai-business-assistant](https://github.com/luizolavoremy/ai-business-assistant)
+
 ## Autor
 
 Luiz Olavo Remy Firmino · https://www.linkedin.com/in/luiz-olavo-remy · luiz.olavo.remy@gmail.com
